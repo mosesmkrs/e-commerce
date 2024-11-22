@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-empty-object-type */
 import { cn } from "@/lib/utils";
 import { forwardRef } from "react";
 
